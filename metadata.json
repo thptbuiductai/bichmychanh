@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Học Tập Tin Học THPT Bùi Dục Tài",
+  "description": "Hệ thống quản trị học tập môn Tin học THPT - Giáo viên Trần Văn Bích, Trường THPT Bùi Dục Tài.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
